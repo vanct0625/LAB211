@@ -33,7 +33,7 @@ public class Calculator {
         return number;
     }
     
-    //Noi divide 0
+    //Not divide 0
     public static double divideNumber() {
         //loop until user input correct
         System.out.print("Enter number: ");
@@ -85,6 +85,5 @@ public class Calculator {
                 return;
             }
         }
-
     }
 }

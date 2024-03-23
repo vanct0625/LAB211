@@ -15,7 +15,4 @@ public class Manager {
         int choice = Validate.checkInputIntLimit(1, 3);
         return choice;
     }
-    
-    
-
 }
